@@ -1,0 +1,29 @@
+.rog-logo{
+    max-width: 50px;
+}
+.search-icon{
+    max-width: 20px;
+    
+}
+.container{
+    position: relative;
+}
+.products  {
+    margin-top: 20px;
+    background-color: rgb(99, 97, 95);
+    text-align: center ;
+    margin-bottom: 20px;
+    color: rgb(255, 255, 255);
+    
+}
+.content{
+    align-items: center;
+}
+.card-text{
+    font-size: 12px;
+    max-width: 230px;
+}
+.card{
+    border: none;
+    text-align: center;
+}
